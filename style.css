@@ -1,0 +1,18 @@
+/* tabs text color */
+.tabs .tab a {
+    color: grey;
+  }
+  
+  .tabs .tab a:hover {
+    color: #bdbdbd;
+  }
+
+#card-title{
+  font-size: 11pt;
+  color: grey
+  
+}
+
+a:visited {
+  color:darkgrey
+}
