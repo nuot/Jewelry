@@ -16,3 +16,22 @@
 a:visited {
   color:darkgrey
 }
+
+#aboutpic{
+  height: 300px
+  width: 300px
+}
+
+#ourstory{
+  color: rgb(74, 72, 72)
+}
+.card:hover{
+  transform:scale(1.45);
+  -webkit-transform:scale(1.45);
+  -moz-transform:scale(1.45);
+  -ms-transform:scale(1.45);
+  -o-transform:scale(1.45);
+  position: relative;
+  float:center;
+  z-index: 1
+}
